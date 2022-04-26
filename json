@@ -1,0 +1,61 @@
+{
+	"plans": [
+	{
+		"title": "free",
+		"price": 0,
+		"plan_lengh": "/mo",
+		"details": [
+			"users":10,
+			"storage":2,
+			"Email support":true,
+			"Priority Email support":false,
+			"Phone support":false,
+			"Help center acess":true
+		],
+		"public": true,
+		"private": false,
+		"Permissions": true,
+		"Sharing":false,
+		"Unlimited members":false,
+		"Extra security":false
+	},
+	{
+		"title": "Pro",
+		"price": 15,
+		"plan_lengh": "/mo",
+		"details": [
+			"users":20,
+			"storage":10,
+			"Email support":true,
+			"Priority Email support":true,
+			"Phone support":false,
+			"Help center acess":true
+		],
+		"public": true,
+		"private": true,
+		"Permissions": true,
+		"Sharing":true,
+		"Unlimited members":true,
+		"Extra security":false	
+	},
+	{
+		"title": "Enterprise",
+		"price": 29,
+		"plan_lengh": "/mo",
+		"details": [
+			"users":30,
+			"storage":20,
+			"Email support":true,
+			"Priority Email support":true,
+			"Phone support":true,
+			"Help center acess":true
+		],
+		"public": true,
+		"private": true,
+		"Permissions": true,
+		"Sharing":true,
+		"Unlimited members":true,
+		"Extra security":true	
+	}
+    ]
+}
